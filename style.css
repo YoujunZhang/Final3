@@ -1,0 +1,45 @@
+.picture {
+    width: 740px;
+    height: 850px;
+    background-color: #97c4f5;
+    border-radius: 15px;
+  /*   border: 1px solid black; */
+    /* position: relative;
+    background-image: url(IMG_1724的副本.PNG); */
+  }
+  
+  #black {
+    background-color: rgb(150, 0, 22);
+  }
+
+
+  div {
+    display: inline-block;
+    /* color: green;
+    border: 2px solid red;
+    margin: 10px 20px;
+    width: 120px;
+    font-size: 40px; */
+}
+
+
+.picture2 {
+    width: 740px;
+    height: 850px;
+    background-color: #97c4f5;
+    border-radius: 15px;
+  /*   border: 1px solid black; */
+    position: relative;
+    left: 8px;
+    background-image: url(IMG_1724的副本.PNG);
+    background-size: 200px;
+    display: inline-block;
+
+
+  }
+
+#brown {
+    background-color: rgb(150, 0, 22);
+  }
+
+
